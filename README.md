@@ -2,7 +2,7 @@
 
 ![Bitcoin Dashboard Preview](/btcimg.png)
 
-This is a full-stack web application that fetches current and historic Bitcoin prices from an external API and stores them in a MongoDB database. It also computes various KPIs based on the data and displays them in a dashboard using Recharts.
+Bitcoin Dashboard is a Full-stack Data Engineering project that fetches current and historic Bitcoin prices from an external API, stores them in a MongoDB database, computes KPIs and displays them in a dashboard. This project demonstrates full stack software development, data engineering, data analysis, data visualization, and containerization using modern technologies.
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ This is a full-stack web application that fetches current and historic Bitcoin p
 - Visualizes data using Recharts bar charts to display the historical maximum and minimum Bitcoin prices for a selected year, currently set to 2022
 - Dockerized for easy deployment
 
-## To run the app
+## To run the project
 
 1. Clone the repository and navigate to the root directory
 2. (Start the Docker container: `docker-compose up --build`)
@@ -39,4 +39,4 @@ This is a full-stack web application that fetches current and historic Bitcoin p
 - Add more data visualization options
 - Improve user interface and user experience
 
-Bitcoin Dashboard is a project that demonstrates full stack software development, data engineering, data analysis, data visualization, and containerization using modern technologies.
+This project serves as an example of how modern technologies can be used to develop efficient and scalable solutions for full stack software development, data engineering, analysis, and visualization.
